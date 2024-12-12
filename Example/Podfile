@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'safeData_Example' do
+  pod 'safeData', :path => '../'
+
+  target 'safeData_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
