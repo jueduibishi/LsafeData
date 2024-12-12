@@ -68,7 +68,7 @@
 		CA16317C23260923F4522C43 /* Pods-safeData_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-safeData_Tests.debug.xcconfig"; path = "Target Support Files/Pods-safeData_Tests/Pods-safeData_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		CA535512122169650E454C21 /* Pods-safeData_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-safeData_Example.debug.xcconfig"; path = "Target Support Files/Pods-safeData_Example/Pods-safeData_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		D1A62206B75955367E92644C /* Pods_safeData_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_safeData_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E025A061E86A0B4174768C07 /* safeData.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = safeData.podspec; path = ../safeData.podspec; sourceTree = "<group>"; };
+		E025A061E86A0B4174768C07 /* LsafeData.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LsafeData.podspec; path = ../LsafeData.podspec; sourceTree = "<group>"; };
 		FA497441EF5FD233471F3501 /* Pods_safeData_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_safeData_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -202,7 +202,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				E025A061E86A0B4174768C07 /* safeData.podspec */,
+				E025A061E86A0B4174768C07 /* LsafeData.podspec */,
 				B322CB5DAEE06E175C848336 /* README.md */,
 				4BCE099228EDAB604C19F9F3 /* LICENSE */,
 			);
