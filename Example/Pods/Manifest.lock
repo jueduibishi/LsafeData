@@ -1,0 +1,16 @@
+PODS:
+  - safeData (0.1.0)
+
+DEPENDENCIES:
+  - safeData (from `../`)
+
+EXTERNAL SOURCES:
+  safeData:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  safeData: 2e8cb755f776b1ec3b82d75a387b8c2c2063f625
+
+PODFILE CHECKSUM: ab414a8397907f9940a51d3ff3e7f76be4269d31
+
+COCOAPODS: 1.16.2

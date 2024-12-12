@@ -1,0 +1,6 @@
+framework module Pods_safeData_Tests {
+  umbrella header "Pods-safeData_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

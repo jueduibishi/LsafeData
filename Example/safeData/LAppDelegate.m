@@ -13,6 +13,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    NSMutableArray *array = [NSMutableArray array];
+    NSString *test = [array objectAtIndex:2];
     return YES;
 }
 

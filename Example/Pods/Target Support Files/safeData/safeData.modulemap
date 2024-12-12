@@ -1,0 +1,6 @@
+framework module safeData {
+  umbrella header "safeData-umbrella.h"
+
+  export *
+  module * { export * }
+}

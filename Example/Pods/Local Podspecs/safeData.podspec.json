@@ -1,0 +1,22 @@
+{
+  "name": "safeData",
+  "version": "0.1.0",
+  "summary": "A short description of safeData.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jueduibishi/safeData",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jueduibishi": "yangyifan@4399inc.com"
+  },
+  "source": {
+    "git": "https://github.com/jueduibishi/safeData.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "safeData/Classes/**/*"
+}
