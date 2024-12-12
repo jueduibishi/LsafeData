@@ -19,6 +19,9 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'LsafeData'
 ```
+##使用说明
+
+通过pod导入即可，不需要import头文件
 
 ## Author
 
