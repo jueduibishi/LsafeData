@@ -1,9 +1,9 @@
-# safeData
+# LsafeData
 
-[![CI Status](https://img.shields.io/travis/jueduibishi/safeData.svg?style=flat)](https://travis-ci.org/jueduibishi/safeData)
-[![Version](https://img.shields.io/cocoapods/v/safeData.svg?style=flat)](https://cocoapods.org/pods/safeData)
-[![License](https://img.shields.io/cocoapods/l/safeData.svg?style=flat)](https://cocoapods.org/pods/safeData)
-[![Platform](https://img.shields.io/cocoapods/p/safeData.svg?style=flat)](https://cocoapods.org/pods/safeData)
+[![CI Status](https://img.shields.io/travis/jueduibishi/LsafeData.svg?style=flat)](https://travis-ci.org/jueduibishi/LsafeData)
+[![Version](https://img.shields.io/cocoapods/v/LsafeData.svg?style=flat)](https://cocoapods.org/pods/LsafeData)
+[![License](https://img.shields.io/cocoapods/l/LsafeData.svg?style=flat)](https://cocoapods.org/pods/LsafeData)
+[![Platform](https://img.shields.io/cocoapods/p/LsafeData.svg?style=flat)](https://cocoapods.org/pods/LsafeData)
 
 ## Example
 
@@ -13,11 +13,11 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-safeData is available through [CocoaPods](https://cocoapods.org). To install
+LsafeData is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'safeData'
+pod 'LsafeData'
 ```
 
 ## Author
@@ -26,4 +26,4 @@ jueduibishi, jueduibishi@hotmail.com
 
 ## License
 
-safeData is available under the MIT license. See the LICENSE file for more info.
+LsafeData is available under the MIT license. See the LICENSE file for more info.

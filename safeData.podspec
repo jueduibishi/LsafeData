@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'safeData'
+  s.name             = 'LsafeData'
   s.version          = '0.1.0'
   s.summary          = '防止空数据闪退.'
 
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 通过runtime防止数组越界，对NSArray和NSMutableArray都有效。
                        DESC
 
-  s.homepage         = 'https://github.com/jueduibishi/safeData'
+  s.homepage         = 'https://github.com/jueduibishi/LsafeData'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'jueduibishi' => 'jueduibishi@hotmail.com' }
-  s.source           = { :git => 'https://github.com/jueduibishi/safeData.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/jueduibishi/LsafeData.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
