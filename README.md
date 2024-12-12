@@ -22,7 +22,7 @@ pod 'safeData'
 
 ## Author
 
-jueduibishi, yangyifan@4399inc.com
+jueduibishi, jueduibishi@hotmail.com
 
 ## License
 
