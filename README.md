@@ -6,7 +6,7 @@
 
 ## Description
 
-空数据时防止闪退。适用于NSArray\NSMutableArray。
+数组越界时防止闪退。适用于NSArray\NSMutableArray。
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 

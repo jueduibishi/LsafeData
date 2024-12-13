@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'LsafeData'
   s.version          = '0.1.0'
-  s.summary          = '防止空数据闪退.'
+  s.summary          = '防止数组越界闪退.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
